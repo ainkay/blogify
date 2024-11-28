@@ -13,4 +13,7 @@ Viewing the blogs
 Tech Stack - MERN (MongoDB , express , ReactJs and NodeJS)
 
 Why this Project - I personally chose this project being an avid reader and writer myself. I feel apps like this in the future can help remote writers grow and publicize their thoughts and words to the wo rld.
+
+
+changes made in the branch called readme
 ---
